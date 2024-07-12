@@ -13,5 +13,3 @@ contract DeployOrgImpl is Script {
     }
 }
 
-// 0x16193485Ae6EC95B7d7A394E218B5a2d496f3720
-// forge script script/DeployOrgImpl.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key <private-key> --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY
