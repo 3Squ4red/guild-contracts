@@ -14,6 +14,3 @@ contract DeployGuild is Script {
         vm.stopBroadcast();
     }
 }
-
-// 0x2cd8De84AD2bec272aA04D49834cCB4287a39b6E
-// forge script script/DeployGuild.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key <private-key> --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY
